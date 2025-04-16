@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "42493050260",
+    "project_id": "pokemonapp-a6309",
+    "storage_bucket": "pokemonapp-a6309.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42493050260:android:e3908e5b87ebf4cc642381",
+        "android_client_info": {
+          "package_name": "com.pokemon.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42493050260-1sbj8j6f610v70m30e1g9sb2bu6v8eb2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pokemon.app",
+            "certificate_hash": "24f57c5986767c0fa04c02e9053ae3da2168918d"
+          }
+        },
+        {
+          "client_id": "42493050260-9cg2kq5vgf55r90tmjv15bpcasgal5kc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pokemon.app",
+            "certificate_hash": "aee9e758db3de8d750c7ee95b304e5a6b7dd24e2"
+          }
+        },
+        {
+          "client_id": "42493050260-vb9s07hf515klauvnfui0o9i0d6atobc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD302GSiGkKKzSRuPnuDHfSf3KHAiONyqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42493050260-vb9s07hf515klauvnfui0o9i0d6atobc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
