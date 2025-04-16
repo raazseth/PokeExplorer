@@ -31,6 +31,18 @@ This is a **React Native** application that allows users to interact with Pokém
 - Quizzes consist of multiple-choice questions with varying levels of difficulty.
 - Fun and engaging for both casual players and hardcore fans.
 
+### ✔️ **Gemini API Integration**
+- The app uses the **Gemini API** to fetch rich, immersive content about Pokémon. This includes lore, unique Pokédex entries, interactive quiz questions, short stories featuring Pokémon, battle strategies, and fun personality facts.
+- The **Gemini API** fetches detailed content in JSON format, structured as:
+    - **Lore & Backstory**: Includes the Pokémon’s origin, habitat, characteristics, and legends.
+    - **Pokédex Entry**: A quirky and fun description in the style of a real Pokédex.
+    - **Quiz**: 10 multiple-choice questions varying in difficulty (easy, medium, hard), related to Pokémon trivia.
+    - **Interactive Story**: A short adventure featuring the Pokémon, with 5-8 pages in a playful, kid-friendly tone.
+    - **Battle Tips**: Provides strategies, strengths, weaknesses, best moveset, and synergy with other Pokémon.
+    - **Personality Facts**: Imagines the Pokémon’s personality and habits in a fun and engaging way.
+
+    This API enriches the user experience by providing deep and fun Pokémon knowledge directly in the app.
+
 ### ✔️ **Local Notifications & Firebase Cloud Messaging (FCM)**
 - Local notifications are handled using **Notifee** for instant alerts about Pokémon, quiz reminders, and more. 
 - Push notifications are integrated with **FCM** to notify users about app updates and important events.
